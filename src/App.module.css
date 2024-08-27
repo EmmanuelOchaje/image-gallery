@@ -1,0 +1,17 @@
+* {
+  /* font-family: "Nunito", sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90vh;
+}
+.btn button {
+  background-color: black;
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
